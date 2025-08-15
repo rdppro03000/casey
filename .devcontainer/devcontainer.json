@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "hostRequirements": {
+    "cpus": 12,
+    "memory": "48gb",
+    "storage": "128gb"
+  }
+}
