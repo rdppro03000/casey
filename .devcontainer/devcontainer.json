@@ -2,8 +2,8 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {},
   "hostRequirements": {
-    "cpus": 32,
-    "memory": "128gb",
-    "storage": "128gb"
+    "cpus": 8,
+    "memory": "32gb",
+    "storage": "64gb"
   }
 }
