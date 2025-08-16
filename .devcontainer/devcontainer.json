@@ -1,6 +1,6 @@
 {
   "name": "My Project Dev Container",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu", // Use a Node.js image
+  "image": "mcr.microsoft.com/devcontainers/python:3.9", // Use a Node.js image
   "hostRequirements": {
     "cpus": 4,
     "memory": "16gb",
