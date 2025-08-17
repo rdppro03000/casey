@@ -1,6 +1,6 @@
 {
   "name": "My Project Dev Container",
-  "image": "ghcr.io/dotnet/aspire-devcontainer-feature/dotnetaspire:1",
+  "image": "ghcr.io/devcontainers/features/aws-cli:1",
   "hostRequirements": {
     "cpus": 4,
     "memory": "16gb",
