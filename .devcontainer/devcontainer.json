@@ -1,6 +1,6 @@
 {
   "name": "My Project Dev Container",
-  "image": "ghcr.io/devcontainers/features/aws-cli:1",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "hostRequirements": {
     "cpus": 4,
     "memory": "16gb",
